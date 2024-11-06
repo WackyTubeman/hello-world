@@ -8,3 +8,4 @@ I was required to do this to get a passing grade on Programming Assignment 07 of
 - [FRC9086 Scouting app](https://github.com/shawn-mcc/FRC9086-Scouting-App)
 - FRC9086 Autonomous Localization System
 - Eagle Engineering Ambassadors RHHS Helicopter Project
+- Unlisted other things
